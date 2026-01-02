@@ -11,8 +11,8 @@ I build clean, responsive, and real-world web applications using modern web tech
 - MongoDB
 
 ### 📌 Featured Projects
--Health Monitoring App (MERN)
--Wanderlust
+- Health Monitoring App (MERN)
+- Wanderlust
 
 ### 🎯 Currently Working On
 - Data Structures & Algorithms
