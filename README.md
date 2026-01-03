@@ -1,4 +1,4 @@
-# Hi,I'm Bhumika 👋
+# Hi, I'm Bhumika 👋
 
 Frontend / Full Stack Developer
 
@@ -9,6 +9,7 @@ I build clean, responsive, and real-world web applications using modern web tech
 - React
 - Node.js, Express
 - MongoDB
+- Git, GitHub
 
 ### 📌 Featured Projects
 - Health Monitoring App (MERN)
@@ -16,4 +17,4 @@ I build clean, responsive, and real-world web applications using modern web tech
 
 ### 🎯 Currently Working On
 - Data Structures & Algorithms
-- Full Stack Development
+- Building scalable full-stack projects
